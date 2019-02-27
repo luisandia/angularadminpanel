@@ -1,5 +1,7 @@
 # Admindashboard
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c643b96923d49158ebeef565318d502)](https://app.codacy.com/app/luisandia/angularadminpanel?utm_source=github.com&utm_medium=referral&utm_content=luisandia/angularadminpanel&utm_campaign=Badge_Grade_Settings)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
 ## Development server
